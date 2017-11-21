@@ -2,4 +2,4 @@ das ist ein pferd
 ..
 ..
 ..
-auch eine Änderung auf 5
+auch eine Änderung auf 5 lokal wird übernommen!!!
