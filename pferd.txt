@@ -3,4 +3,6 @@ und jetzt auf der weide noch ein pferd
 ..
 ..
 ..
-auch eine Änderung auf 5 lokal wird übernommen!!!
+auch eine Ã„nderung auf 5 lokal wird Ã¼bernommen!!!
+
+Test3/merge/entfernte Ã¤nderung
