@@ -5,3 +5,5 @@ na-ja, jetzt ist die kuh nicht allein. ihr kalb ist zurückgekommen.
 
 
 das ist ein Test1/merge
+
+Test3/merge/entfernte änderung
